@@ -9,4 +9,4 @@ timeout 30
 adrian@openindiana-hipster:~$ sudo nano /rpool/boot/grub/menu.ls # edit the boot menu accordingly and save
 adrian@openindiana-hipster:~$ sudo bootadm update-archive #and you're done, boot menu update!
 ```
-![movie](Videos/edit-boot-menu.webm)
+[![VIDEO](http://img.youtube.com/vi/-jFyuEDVbRg/0.jpg)](https://www.youtube.com/watch?v=-jFyuEDVbRg)
