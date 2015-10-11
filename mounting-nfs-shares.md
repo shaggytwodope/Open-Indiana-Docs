@@ -17,6 +17,18 @@ rpool/export/home          24G   19K   24G   1% /export/home
 rpool                      24G   30K   24G   1% /rpool
 192.168.0.103:/storage    298G  128G  170G  43% /media/adrian/nfs/storage
 adrian@openindiana-hipster:~$ ls -l /media/adrian/nfs/storage # we can see our share is mounted.
+total 68760
+-rw-rw-r--   1 1000 1000 70308678 Jul 24 00:09 atom-amd64.deb
+drwxrwxr-x+  7 1000 1000     4096 Sep  9 21:10 Backup
+drwxrwxr-x+  2 1000 1000        1 Sep  3 00:28 build
+drwxrwxr-x+  3 1000 1000        8 Jul 27 12:41 C-stuff
+drwxrwxr-x+  2 1000 1000     4096 Apr  1  2015 cc
+drwxrwxr-x+  9 1000 1000     4096 Oct 10 23:36 docker
+drwxrwxr-x+ 11 1000 1000     4096 Oct  9 00:16 Downloads
+drwxrwxr-x+ 11 1000 1000     4096 Oct 10 22:45 sites
+lrwxrwxrwx   1 1000 1000       41 May 15 20:46 soulseek-downloads -> /home/adrian/Downloads/soulseek-downloads
+lrwxrwxrwx   1 1000 1000       39 May 15 20:46 soulseek-uploads -> /home/adrian/Downloads/soulseek-uploads
+drwxrwxr-x+  5 1000 1000     4096 Oct 11 14:56 virtualboxVMS
 adrian@openindiana-hipster:~$ sudo umount /media/adrian/nfs/storage # unmounting is super easy!
 ```
 
