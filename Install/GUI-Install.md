@@ -38,4 +38,4 @@ And now you play the waiting game, the system is now seting up itself/installing
 
 Your installation of OpenIndiana installed correctly,(at least I hope so!)you can now reboot into your new shiny system!
 
-
+[![video](http://img.youtube.com/vi/KthNzw4i-EI/0.jpg)](https://www.youtube.com/watch?v=KthNzw4i-EI)
