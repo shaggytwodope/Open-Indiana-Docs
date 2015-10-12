@@ -19,3 +19,5 @@ You can have multiple images of / in OpenIndiana thanks to ZFS, a typical use ca
 ![boot menu](Pictures/BM.png)
 
 * Wait for it to boot, and you should be in your shiny new updated system.
+
+[![video](http://img.youtube.com/vi/NdWwEP2vfQE/0.jpg)](https://www.youtube.com/watch?v=NdWwEP2vfQE)
