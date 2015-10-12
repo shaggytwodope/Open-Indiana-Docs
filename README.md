@@ -5,3 +5,4 @@ A variety of notes for doing misc in Open Indiana.
 * [Boot](Boot)
 * [How to mount NFS shares](mounting-nfs-share.md)
 * [Package Management](PackageManagement)
+* [ZFS](ZFS)
