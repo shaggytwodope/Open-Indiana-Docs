@@ -110,6 +110,10 @@ Press ```F2``` to install and wait!
 
 ![installer](Pictures/TXT/install.png)
 
+![the end](Pictures/TXT/end.png)
+
+You can now press ```F8``` to reboot into your shiny new system, ```F4``` to view the log, and ```F9``` to quit.
+
 # asciinema video
 
 [![asciicast](https://asciinema.org/a/2trhadpsleybvx0dt1ucekrlz.png)](https://asciinema.org/a/2trhadpsleybvx0dt1ucekrlz)
