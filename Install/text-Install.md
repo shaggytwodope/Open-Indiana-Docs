@@ -2,30 +2,32 @@
 
 ## Boot and setup
 
-In the boot menu, select ```OI hipster Enable SSH```
+In the ```boot menu```, select ```OI hipster Enable SSH```
 
 ![select ssh](Pictures/TXT/select-ssh.png)
 
-When you get to the desktop open a terminal and enter
+When you get to the desktop open a ```terminal``` and enter
 
 ```bash
 ifconfig | grep inet
 ```
-This should print something like
+This should ```print``` something like
 
 ```bash
+
 inet 127.0.0.1 netmask ff000000
 inet 192.168.0.20 netmask ffffff00 broadcast 192.168.0.255 # could be 10.0.0.x or another IP range.
 inet6 ::1/128
 inet6 fe80::a00:27ff:fe1f:41e4/10
+
 ```
 
 ![inet](Pictures/TXT/inet.png)
 
 ## SSH and install start.
 
-Next open a terminal on another computer(or your favorite SSH clieint ***IF*** you're on windows) and do
-The username and password is ```jack```.
+Next open a ```terminal``` on another computer(or your favorite ```ssh``` clieint ***IF*** you're on windows) and do
+The ```username``` and ```password``` is ```jack```.
 
 ```bash
 
@@ -43,7 +45,7 @@ jack@openindiana:~$
 
 ![ssh-into](Pictures/TXT/ssh-into.png)
 
-Now that you're sshed into the OpenIndiana live system you can initiate the text install.
+Now that you're ```sshed``` into the OpenIndiana ```live``` system you can initiate the ```text install```.
 
 To do so etner:
 
@@ -51,7 +53,7 @@ To do so etner:
 jack@openindiana:~$ /usr/bin/sudo /usr/bin/text-install
 ```
 
-You will be prompted for a password, the password is ```openindiana```
+You will be prompted for a ```password```, the password is ```openindiana```
 
 
 ![start text install](Pictures/TXT/initialize-text-install.png)
@@ -62,7 +64,7 @@ Take a moment to read if you need to and when you're ready press ```F2``` to con
 
 ## Disk partitioning/management
 
-Now you can partition your drive or just use the whole drive. (use arrow keys to navigate menus)
+Now you can ```partition``` your ```drive``` or just use the whole drive. (use ```arrow``` keys to navigate menus)
 
 ![partition screen one](Pictures/TXT/partitionscreen1.png)
 
@@ -72,7 +74,7 @@ Now you can partition your drive or just use the whole drive. (use arrow keys to
 
 ## Network setup
 
-Now you can setup your hostname(Computer Name) and how your network is setup.
+Now you can setup your ```hostname```(Computer Name) and how your ```network``` is setup.
 
 ![set hostname](Pictures/TXT/network1.png)
 
@@ -80,19 +82,19 @@ Now you can setup your hostname(Computer Name) and how your network is setup.
 
 # Region, location, and time zone
 
-Now you have to select your Region
+Now you have to select your ```Region```
 
 ![Regions](Pictures/TXT/tz1.png)
 
-your location
+your ```location```
 
 ![Regions](Pictures/TXT/tz2.png)
 
-your time zone
+your ```time zone```
 
 ![time zone](Pictures/TXT/tz3.png)
 
-and finally make sure the date and time is correct
+and finally make sure the ```date``` and ```time``` is correct
 
 ![time zone](Pictures/TXT/tz4.png)
 
@@ -104,7 +106,7 @@ and finally make sure the date and time is correct
 
 ![Summary](Pictures/TXT/summary.png)
 
-Press ```F2``` to continue and wait!
+Press ```F2``` to install and wait!
 
 ![installer](Pictures/TXT/install.png)
 
