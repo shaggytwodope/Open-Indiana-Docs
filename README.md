@@ -13,3 +13,7 @@ A variety of notes for doing misc in Open Indiana.
 * [/u/127b](https://www.reddit.com/user/127b)
 * [John ShaggyTwoDope Jenkins](https://github.com/ShaggyTwoDope)
 * [Adrian Veektorija Koshkayatchkov](https://github.com/AdrianKoshka)
+
+# Picture
+
+![cover](cover.png)
