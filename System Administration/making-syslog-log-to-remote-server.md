@@ -1,3 +1,5 @@
+# Making syslog log to a remote server
+
 You can simply edit the ```/etc/syslog.conf``` file and, wherever ```/var/adm/messages``` appears, duplicate the line and replace ```/var/adm/messages``` by ```@remoteSystem``` with remoteSystem being the ```IP``` address or ```hostname``` of the remote server where to send the ```logs```.
 
 eg:

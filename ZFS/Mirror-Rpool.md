@@ -1,3 +1,5 @@
+# Mirring Rpool
+
 For safetys sake lets say you wanted to mirror your rpool, unfortunately this is not as straight forward as simply running.
 
 ```bash
