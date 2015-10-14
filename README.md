@@ -7,3 +7,9 @@ A variety of notes for doing misc in Open Indiana.
 * [Package Management](PackageManagement)
 * [System Administration](System Administration)
 * [ZFS](ZFS)
+
+# Contributors
+
+* [/u/127b](https://www.reddit.com/user/127b)
+* [John ShaggyTwoDope Jenkins](https://github.com/ShaggyTwoDope)
+* [Adrian Veektorija Koshkayatchkov](https://github.com/AdrianKoshka)
